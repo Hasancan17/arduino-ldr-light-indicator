@@ -7,3 +7,6 @@ Bu proje LDR sensörü kullanarak ortam ışık seviyesini ölçer ve LED bar gr
 - LDR sensörü
 - LED bar graph
 - Proteus simülasyonu
+- 
+## Devre Görüntüsü
+![Devre](proteus_devre.png)
